@@ -5,6 +5,8 @@
 Binary classification of metastatic cancer in H&E stained tissue patches.<br>
 DenseNet121 achieves **89% accuracy** and **ROC-AUC 0.9625** on a 5,000-image subset of the Kaggle dataset.
 
+[![GitHub stars](https://img.shields.io/github/stars/VenuBandi/histopathologic-cancer-detection?style=for-the-badge&color=yellow)](https://github.com/VenuBandi/histopathologic-cancer-detection/stargazers)
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Dataset](https://img.shields.io/badge/Kaggle-Histopathologic%20Cancer-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/c/histopathologic-cancer-detection)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -81,3 +83,11 @@ Download the dataset from [Kaggle](https://www.kaggle.com/c/histopathologic-canc
 ## License
 
 MIT
+
+---
+
+<div align="center">
+
+If this project was useful or interesting, a ⭐ helps others find it.
+
+</div>
