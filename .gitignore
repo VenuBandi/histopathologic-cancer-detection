@@ -1,0 +1,24 @@
+# Dataset (download from Kaggle)
+data/
+*.tif
+
+# Model weights
+*.pth
+*.pt
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Allow result images
+!reports/images/*.png
+
+# OS
+.DS_Store
